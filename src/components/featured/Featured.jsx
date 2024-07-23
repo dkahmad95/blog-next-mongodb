@@ -20,13 +20,11 @@ const Featured = () => {
         </div>
         <div className={styles.textContainer}>
           <h1 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet alim consectetur adipisicing elit.
+          The Wonders of the Ocean
           </h1>
-          <p className={styles.postDesc}>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Cupiditate, quam nisi magni ea laborum inventore voluptatum
-            laudantium repellat ducimus unde aspernatur fuga. Quo, accusantium
-            quisquam! Harum unde sit culpa debitis.
+          <p className={styles.postDesc}><span>
+          Dive into the mysteries of the ocean with our latest post. Discover the beauty of coral reefs, the majesty of marine life, and the importance of ocean conservation.<br/> <br/></span>
+          The ocean covers over 70% of our planet's surface and is home to a diverse array of life. From the smallest plankton to the largest whales, the sea is a vital part of Earth's ecosystem. Explore the depths of the ocean and learn about the critical issues facing our marine environments today.
           </p>
           <button className={styles.button}>Read More</button>
         </div>
